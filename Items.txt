@@ -1,0 +1,1 @@
+Create the nesessary class diagram and activity diagram for implementing items
