@@ -1,0 +1,22 @@
+ITEM USAGE ACTION DIAGRAM
+Open inventory
+Display items and counts
+Assure exists?
+Choose Item to use
+
+Use Item:
+a)Item is used on self
+b)Item is used on other
+c)Item is used on other item (ex poisoning a sword)
+
+If item is perishable
+Reduce uses available OR destroy item
+
+If item takes wear and tear
+Wear/Tear
+
+b)Item was used on other: Track XP/Achievement if kills or heals... etc
+
+c)Open list of possible things to be able to combine with
+c)Track XP if it results in kill or something
+

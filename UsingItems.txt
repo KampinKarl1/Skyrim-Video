@@ -1,0 +1,1 @@
+How to use Items? Make interface 'IUseful' with method 'UseByOn(by:actor, on:actor)'?

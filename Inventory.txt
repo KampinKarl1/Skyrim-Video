@@ -1,0 +1,1 @@
+Create an inventory that's correctly accessible but also well encapsulated
